@@ -1,2 +1,2 @@
-# dio-boot-pan
+# Repositório dos Desafio DIO
 Desafio de Projeto sobre Git/GitHub
